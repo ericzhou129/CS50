@@ -1,0 +1,11 @@
+0. TODO
+Allowable dimensions d between 3 and 9
+
+1. TODO
+Game board is represented by an array
+
+2. TODO
+greet() function is called to greet player at start
+
+3. TODO
+init(), draw(), move(), won()
